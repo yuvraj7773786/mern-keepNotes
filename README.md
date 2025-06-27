@@ -61,22 +61,22 @@ keepNotes/
 
 ## 🧑‍💻 Getting Started (For Local Development)
 
-# Clone the repo
+### Clone the repo
 ```
 git clone https://github.com/yuvraj7773786/keepNotes.git
 cd keepNotes
 ```
-# Install backend dependencies
+### Install backend dependencies
 ```
 cd backend
 npm install
 ```
-# Install frontend dependencies
+### Install frontend dependencies
 ```
 cd ../frontend
 npm install
 ```
-# Run both servers (in separate terminals)
+### Run both servers (in separate terminals)
 ```
 npm run dev          # for frontend (Vite)
 npm run start        # for backend (Express)
