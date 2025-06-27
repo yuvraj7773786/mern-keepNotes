@@ -41,7 +41,7 @@ KeepNotes is a full-stack note-taking application that allows users to create, v
 ---
 
 ## 📁 Project Structure
-
+```
 keepNotes/
 ├── backend/ # Express API
 │ ├── routes/
@@ -56,6 +56,7 @@ keepNotes/
 │
 ├── README.md
 └── package.json
+```
 ---
 
 ## 🧑‍💻 Getting Started (For Local Development)
