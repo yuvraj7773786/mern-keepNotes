@@ -61,51 +61,51 @@ keepNotes/
 
 ## 🧑‍💻 Getting Started (For Local Development)
 
-
----
-
-## 🧑‍💻 Getting Started (For Local Development)
-
 # Clone the repo
+```
 git clone https://github.com/yuvraj7773786/keepNotes.git
 cd keepNotes
-
+```
 # Install backend dependencies
+```
 cd backend
 npm install
-
+```
 # Install frontend dependencies
+```
 cd ../frontend
 npm install
-
+```
 # Run both servers (in separate terminals)
+```
 npm run dev          # for frontend (Vite)
 npm run start        # for backend (Express)
+```
+---
 
 ## 📦 Deployment
-The entire app (frontend + backend) is hosted on Render:
+-> The entire app (frontend + backend) is hosted on Render:
 
-Express backend handles API routing and also serves the React frontend from dist/ after build
+-> Express backend handles API routing and also serves the React frontend from dist/ after build
 
-MongoDB is hosted via MongoDB Atlas
+-> MongoDB is hosted via MongoDB Atlas
 
-
+---
 ## ✨ Future Improvements
-User authentication (login/register)
+🔍 Search and filter notes by title or content  
+🧑‍💻 User authentication (login/register)  
+🔐 Secure user-specific notes with JWT  
+🌙 Dark mode toggle  
+📅 Note sorting by creation or modification date  
+🧾 Rich text editing (bold, italics, etc.)  
+📦 Export notes to PDF or Markdown  
 
-Dark mode toggle
-
-Notes search/filtering
-
+---
 ## 🙌 Acknowledgements
-Render
+- Render
 
-MongoDB Atlas
+- MongoDB Atlas
 
-Lucide Icons
+- Lucide Icons
 
-DaisyUI
-
-
-# 📄 License
-This project is open-source and available under the MIT License.
+- DaisyUI
