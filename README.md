@@ -82,7 +82,7 @@ npm install
 npm run dev          # for frontend (Vite)
 npm run start        # for backend (Express)
 
-# 📦 Deployment
+## 📦 Deployment
 The entire app (frontend + backend) is hosted on Render:
 
 Express backend handles API routing and also serves the React frontend from dist/ after build
@@ -90,14 +90,14 @@ Express backend handles API routing and also serves the React frontend from dist
 MongoDB is hosted via MongoDB Atlas
 
 
-# ✨ Future Improvements
+## ✨ Future Improvements
 User authentication (login/register)
 
 Dark mode toggle
 
 Notes search/filtering
 
-# 🙌 Acknowledgements
+## 🙌 Acknowledgements
 Render
 
 MongoDB Atlas
